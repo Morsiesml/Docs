@@ -116,8 +116,6 @@ SCOConstantConfigs.Business_Sale + "|" + SCOConstantConfigs.Business_AfterSale
 * getAllModuleConfigsBySystemType(Context context, BusinessSystemType type, Set<String> blackSet) :获取对应  系统 类型的剔除掉黑名单后的 list
 
 
-
-
 ###  SCOAptApiUtil 获取数据
 
 * SCOAptApiUtil.getResourceByName(图片名称,Context) :图片名称获取图片的资源id的方法
